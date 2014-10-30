@@ -18,6 +18,7 @@ addItems('bar');
 //0
 
 
+
 // Question 2
 // Add a click event handler to the paragraph in the 'question-2' div
 // which triggers a method called 'alertClicked',
